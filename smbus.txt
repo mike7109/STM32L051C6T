@@ -47,3 +47,4 @@
 //        HAL_GPIO_WritePin(GPIOA, UART_DE_Pin, GPIO_PIN_RESET);
 //        cnt = 0;
 //      }
+
